@@ -1,0 +1,7 @@
+interface:
+  display_name: "Oracle Task Orchestrator"
+  short_description: "Run parallel Oracle prompt-chain batches and build PPTX outputs."
+  default_prompt: "Use $oracle-task-orchestrator to decompose this brief into a resumable Oracle batch and generate editable outputs."
+
+policy:
+  allow_implicit_invocation: true
