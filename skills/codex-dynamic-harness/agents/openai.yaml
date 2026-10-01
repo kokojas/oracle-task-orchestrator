@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Dynamic Harness"
+  short_description: "Compile difficult tasks into right-sized Codex harnesses"
+  default_prompt: "Use $codex-dynamic-harness to compile this task into the smallest useful execution harness, execute it with available Codex capabilities, and verify the result before synthesis."
